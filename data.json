@@ -8,7 +8,8 @@
     "opening_time": "11:30 AM",
     "closing_time": "10:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://marketplace.canva.com/EAFXIvlL2Ns/2/0/1600w/canva-brown-and-black-vintage-food-restaurant-logo-YASJJho2Kzw.jpg"
+    "image_placeholder": "https://marketplace.canva.com/EAFXIvlL2Ns/2/0/1600w/canva-brown-and-black-vintage-food-restaurant-logo-YASJJho2Kzw.jpg",
+    "interior_image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fDB8fHww&w=1000&q=80"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "opening_time": "11:00 AM",
     "closing_time": "9:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://i.fbcd.co/products/resized/resized-750-500/16d70e6ee842edf5e0e1499ae394083c5e41267ce8107c6e1cee0cd59041e12f.jpg"
+    "image_placeholder": "https://i.fbcd.co/products/resized/resized-750-500/16d70e6ee842edf5e0e1499ae394083c5e41267ce8107c6e1cee0cd59041e12f.jpg",
+    "interior_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp5nZeXN0PtSEjv_KEMMhy2sSpBWKiPxrDFvrFyx8CEz6IIw1YW9OtiWv6fCHrCxBJvpA&usqp=CAU"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "opening_time": "12:00 PM",
     "closing_time": "10:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://img.freepik.com/premium-vector/food-drink-logo-design-brand-label_125269-67.jpg?w=2000"
+    "image_placeholder": "https://img.freepik.com/premium-vector/food-drink-logo-design-brand-label_125269-67.jpg?w=2000",
+    "interior_image": "https://www.touchbistro.com/wp-content/uploads/2021/08/restaurant-interior-design-ideas-thumbnail.jpg"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "opening_time": "11:30 AM",
     "closing_time": "9:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e4qzA1UfYU2GCd6lT9TbGXiJbJMzjUmHZNlrC2ML7RXPBVEaXtBCRXHRsYlIS0agbYk&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e4qzA1UfYU2GCd6lT9TbGXiJbJMzjUmHZNlrC2ML7RXPBVEaXtBCRXHRsYlIS0agbYk&usqp=CAU",
+    "interior_image": "https://www.franciscosegarra.com/wp-content/uploads/2022/03/restaurant-decoration.jpg"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "opening_time": "7:00 AM",
     "closing_time": "5:00 PM",
     "serving_options": ["Breakfast"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrgn3L1jGyxvOCPSIi-ELWoQy_BWZX1PQCbYue9crq5AKDV2-Jvz06ygqtPR9c_NiQAc&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrgn3L1jGyxvOCPSIi-ELWoQy_BWZX1PQCbYue9crq5AKDV2-Jvz06ygqtPR9c_NiQAc&usqp=CAU",
+    "interior_image": "https://media.istockphoto.com/id/1211547141/photo/modern-restaurant-interior-design.jpg?s=612x612&w=0&k=20&c=CvJmHwNNwfFzVjj1_cX9scwYsl4mnVO8XFPi0LQMTsw="
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "opening_time": "11:00 AM",
     "closing_time": "9:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JwxZ_S6CPYa5x8u6COwKxsSlGAKCA0mU6wLQZkEEIDqe4YaPE4lwh2T_fBQ3vdevwQE&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JwxZ_S6CPYa5x8u6COwKxsSlGAKCA0mU6wLQZkEEIDqe4YaPE4lwh2T_fBQ3vdevwQE&usqp=CAU",
+    "interior_image": "https://media.architecturaldigest.com/photos/6092fd9d80149f605e058afa/16:9/w_2560%2Cc_limit/ZZs%2520Sushi%2520Bar%2520Fulk_ZZ_041.jpg"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "opening_time": "10:30 AM",
     "closing_time": "8:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3peizy9GcnVy-7C7nYchGeAy4WSaQhGqIdcjmAzvEfryqbQ6f3908HJFv6WIZiC6Mws&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3peizy9GcnVy-7C7nYchGeAy4WSaQhGqIdcjmAzvEfryqbQ6f3908HJFv6WIZiC6Mws&usqp=CAU",
+    "interior_image": "https://media.istockphoto.com/id/1314951233/photo/interior-of-a-modern-cozy-french-restaurant.webp?b=1&s=170667a&w=0&k=20&c=YkJegbzByz0SgHTQbZB5frVfXt3E_c7rUIfwdgb3Za8="
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "opening_time": "6:00 PM",
     "closing_time": "11:00 PM",
     "serving_options": ["Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrOxu0ac0kyiRLPcedzxp_XATi3QAvu7AQ9XF2FzJ2pGtDD9ed3_pvDWC6icOfjfjXWI&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrOxu0ac0kyiRLPcedzxp_XATi3QAvu7AQ9XF2FzJ2pGtDD9ed3_pvDWC6icOfjfjXWI&usqp=CAU",
+    "interior_image": "https://imagineinteriors.design/wp-content/uploads/2019/03/restaurant-design-7.jpg"
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "opening_time": "12:30 PM",
     "closing_time": "10:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpE2myEiVHkrYvMm0QYzDH0hMWYlr6QTQ7g&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpE2myEiVHkrYvMm0QYzDH0hMWYlr6QTQ7g&usqp=CAU",
+    "interior_image": "https://media.istockphoto.com/id/1125725514/photo/the-it-place.jpg?s=612x612&w=0&k=20&c=atYC_U7jgwN8XcMc8uOGBEDZLVvWTxDGokds3uZot-A="
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "opening_time": "11:00 AM",
     "closing_time": "9:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJer5Ed3byD6F_FLDwr8RuwEh_bsmudgzzQ&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJer5Ed3byD6F_FLDwr8RuwEh_bsmudgzzQ&usqp=CAU",
+    "interior_image": "https://thumbs.dreamstime.com/b/bright-restaurant-interior-blank-canvas-d-rendering-wall-76704081.jpg"
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "opening_time": "12:00 PM",
     "closing_time": "9:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GtIlu6TbEsEjpdbk-WgwXpI8J2G9F23Waw&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GtIlu6TbEsEjpdbk-WgwXpI8J2G9F23Waw&usqp=CAU",
+    "interior_image": "https://thearchitectsdiary.com/wp-content/uploads/2018/09/restaurant-interiors-11.jpg"
   },
   {
     "id": 12,
@@ -129,6 +140,7 @@
     "opening_time": "11:30 AM",
     "closing_time": "9:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDLcc8aNQENozwwu9G4AtYl6D2yiPo5BPWg&usqp=CAU"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDLcc8aNQENozwwu9G4AtYl6D2yiPo5BPWg&usqp=CAU",
+    "interior_image": "https://lh3.googleusercontent.com/AcjY7O5OWyFFsQIC7DPLxDM8HTlXcDrfz81R-IrBvE-iKSUdQNQtJr1zIJ_yekU8_wZh3FPRzvooVoMEqSG4BHnwv-WEe-3eoof5WFsRhLEsTwAbBbSiRm8CrVSFFkfByWxZOYHN=s0"
   }
 ]
