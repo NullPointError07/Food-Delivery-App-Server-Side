@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "restaurant_name": "Sushi Delight",
     "star_rating": 4.6,
     "restaurant_type": ["Japanese", "Sushi Bar", "Casual Dining"],
@@ -7,9 +8,10 @@
     "opening_time": "11:30 AM",
     "closing_time": "10:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/sushi_delight.jpg"
+    "image_placeholder": "https://marketplace.canva.com/EAFXIvlL2Ns/2/0/1600w/canva-brown-and-black-vintage-food-restaurant-logo-YASJJho2Kzw.jpg"
   },
   {
+    "id": 2,
     "restaurant_name": "Burger Haven",
     "star_rating": 4.3,
     "restaurant_type": ["American", "Burger Joint", "Fast Food"],
@@ -17,9 +19,10 @@
     "opening_time": "11:00 AM",
     "closing_time": "9:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/burger_haven.jpg"
+    "image_placeholder": "https://i.fbcd.co/products/resized/resized-750-500/16d70e6ee842edf5e0e1499ae394083c5e41267ce8107c6e1cee0cd59041e12f.jpg"
   },
   {
+    "id": 3,
     "restaurant_name": "Mama Mia Pizzeria",
     "star_rating": 4.7,
     "restaurant_type": ["Italian", "Pizza Place", "Casual Dining"],
@@ -27,9 +30,10 @@
     "opening_time": "12:00 PM",
     "closing_time": "10:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/mama_mia_pizzeria.jpg"
+    "image_placeholder": "https://img.freepik.com/premium-vector/food-drink-logo-design-brand-label_125269-67.jpg?w=2000"
   },
   {
+    "id": 4,
     "restaurant_name": "Wok Fusion",
     "star_rating": 4.4,
     "restaurant_type": ["Asian", "Stir-Fry", "Fast Casual"],
@@ -37,9 +41,10 @@
     "opening_time": "11:30 AM",
     "closing_time": "9:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/wok_fusion.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e4qzA1UfYU2GCd6lT9TbGXiJbJMzjUmHZNlrC2ML7RXPBVEaXtBCRXHRsYlIS0agbYk&usqp=CAU"
   },
   {
+    "id": 5,
     "restaurant_name": "Cafe Latte",
     "star_rating": 4.9,
     "restaurant_type": ["Cafe", "Coffee Shop", "Breakfast"],
@@ -47,9 +52,10 @@
     "opening_time": "7:00 AM",
     "closing_time": "5:00 PM",
     "serving_options": ["Breakfast"],
-    "image_placeholder": "https://example.com/images/cafe_latte.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhrgn3L1jGyxvOCPSIi-ELWoQy_BWZX1PQCbYue9crq5AKDV2-Jvz06ygqtPR9c_NiQAc&usqp=CAU"
   },
   {
+    "id": 6,
     "restaurant_name": "Taco Fiesta",
     "star_rating": 4.5,
     "restaurant_type": ["Mexican", "Taco Bar", "Casual Dining"],
@@ -57,9 +63,10 @@
     "opening_time": "11:00 AM",
     "closing_time": "9:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/taco_fiesta.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JwxZ_S6CPYa5x8u6COwKxsSlGAKCA0mU6wLQZkEEIDqe4YaPE4lwh2T_fBQ3vdevwQE&usqp=CAU"
   },
   {
+    "id": 7,
     "restaurant_name": "Green Garden",
     "star_rating": 4.2,
     "restaurant_type": ["Vegetarian", "Healthy Eating", "Cafe"],
@@ -67,9 +74,10 @@
     "opening_time": "10:30 AM",
     "closing_time": "8:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/green_garden.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3peizy9GcnVy-7C7nYchGeAy4WSaQhGqIdcjmAzvEfryqbQ6f3908HJFv6WIZiC6Mws&usqp=CAU"
   },
   {
+    "id": 8,
     "restaurant_name": "Fusion Eats",
     "star_rating": 4.6,
     "restaurant_type": ["Global Cuisine", "Fine Dining", "Fusion"],
@@ -77,9 +85,10 @@
     "opening_time": "6:00 PM",
     "closing_time": "11:00 PM",
     "serving_options": ["Dinner"],
-    "image_placeholder": "https://example.com/images/fusion_eats.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrOxu0ac0kyiRLPcedzxp_XATi3QAvu7AQ9XF2FzJ2pGtDD9ed3_pvDWC6icOfjfjXWI&usqp=CAU"
   },
   {
+    "id": 9,
     "restaurant_name": "Seafood Harbor",
     "star_rating": 4.8,
     "restaurant_type": ["Seafood", "Waterfront Dining", "Upscale"],
@@ -87,9 +96,10 @@
     "opening_time": "12:30 PM",
     "closing_time": "10:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/seafood_harbor.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpE2myEiVHkrYvMm0QYzDH0hMWYlr6QTQ7g&usqp=CAU"
   },
   {
+    "id": 10,
     "restaurant_name": "Vegan Vibes",
     "star_rating": 4.7,
     "restaurant_type": ["Vegan", "Plant-Based", "Healthy"],
@@ -97,9 +107,10 @@
     "opening_time": "11:00 AM",
     "closing_time": "9:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/vegan_vibes.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJer5Ed3byD6F_FLDwr8RuwEh_bsmudgzzQ&usqp=CAU"
   },
   {
+    "id": 11,
     "restaurant_name": "Bistro Bliss",
     "star_rating": 4.4,
     "restaurant_type": ["European", "Bistro", "Casual Dining"],
@@ -107,9 +118,10 @@
     "opening_time": "12:00 PM",
     "closing_time": "9:30 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/bistro_bliss.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GtIlu6TbEsEjpdbk-WgwXpI8J2G9F23Waw&usqp=CAU"
   },
   {
+    "id": 12,
     "restaurant_name": "Fire & Smoke BBQ",
     "star_rating": 4.3,
     "restaurant_type": ["Barbecue", "Smokehouse", "Casual Dining"],
@@ -117,26 +129,6 @@
     "opening_time": "11:30 AM",
     "closing_time": "9:00 PM",
     "serving_options": ["Lunch", "Dinner"],
-    "image_placeholder": "https://example.com/images/fire_and_smoke_bbq.jpg"
-  },
-  {
-    "restaurant_name": "Sunrise Bistro",
-    "star_rating": 4.5,
-    "restaurant_type": ["American", "Bistro", "Breakfast"],
-    "description": "Welcome the day with a hearty breakfast at Sunrise Bistro. Our range of breakfast classics and creative twists promise a sunny start.",
-    "opening_time": "6:30 AM",
-    "closing_time": "11:00 AM",
-    "serving_options": ["Breakfast", "Lunch"],
-    "image_placeholder": "https://example.com/images/sunrise_bistro.jpg"
-  },
-  {
-    "restaurant_name": "Rise and Dine",
-    "star_rating": 4.7,
-    "restaurant_type": ["Diner", "Breakfast Spot", "Comfort Food"],
-    "description": "Experience the joy of early mornings at Rise and Dine. Our comforting breakfast dishes are the perfect way to kickstart your day.",
-    "opening_time": "6:00 AM",
-    "closing_time": "12:00 PM",
-    "serving_options": ["Breakfast", "Lunch"],
-    "image_placeholder": "https://example.com/images/rise_and_dine.jpg"
+    "image_placeholder": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDLcc8aNQENozwwu9G4AtYl6D2yiPo5BPWg&usqp=CAU"
   }
 ]
