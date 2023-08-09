@@ -1,0 +1,142 @@
+[
+  {
+    "restaurant_name": "Sushi Delight",
+    "star_rating": 4.6,
+    "restaurant_type": ["Japanese", "Sushi Bar", "Casual Dining"],
+    "description": "Immerse yourself in the art of sushi at Sushi Delight. Our skilled chefs create exquisite sushi rolls that are a harmony of flavors and textures.",
+    "opening_time": "11:30 AM",
+    "closing_time": "10:00 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/sushi_delight.jpg"
+  },
+  {
+    "restaurant_name": "Burger Haven",
+    "star_rating": 4.3,
+    "restaurant_type": ["American", "Burger Joint", "Fast Food"],
+    "description": "Sink your teeth into juicy, mouthwatering burgers at Burger Haven. Our classic and innovative creations are a true delight for burger enthusiasts.",
+    "opening_time": "11:00 AM",
+    "closing_time": "9:30 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/burger_haven.jpg"
+  },
+  {
+    "restaurant_name": "Mama Mia Pizzeria",
+    "star_rating": 4.7,
+    "restaurant_type": ["Italian", "Pizza Place", "Casual Dining"],
+    "description": "Experience the essence of Italy with authentic pizzas at Mama Mia Pizzeria. Our wood-fired crust and premium toppings create a symphony of flavors.",
+    "opening_time": "12:00 PM",
+    "closing_time": "10:30 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/mama_mia_pizzeria.jpg"
+  },
+  {
+    "restaurant_name": "Wok Fusion",
+    "star_rating": 4.4,
+    "restaurant_type": ["Asian", "Stir-Fry", "Fast Casual"],
+    "description": "Embark on a journey through Asian flavors at Wok Fusion. Our customizable stir-fry dishes are a blend of freshness and sizzling excitement.",
+    "opening_time": "11:30 AM",
+    "closing_time": "9:00 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/wok_fusion.jpg"
+  },
+  {
+    "restaurant_name": "Cafe Latte",
+    "star_rating": 4.9,
+    "restaurant_type": ["Cafe", "Coffee Shop", "Breakfast"],
+    "description": "Start your day right with a cup of perfection at Cafe Latte. Our premium coffee and delectable breakfast options are a cozy morning escape.",
+    "opening_time": "7:00 AM",
+    "closing_time": "5:00 PM",
+    "serving_options": ["Breakfast"],
+    "image_placeholder": "https://example.com/images/cafe_latte.jpg"
+  },
+  {
+    "restaurant_name": "Taco Fiesta",
+    "star_rating": 4.5,
+    "restaurant_type": ["Mexican", "Taco Bar", "Casual Dining"],
+    "description": "Indulge in the zesty and savory world of tacos at Taco Fiesta. Our wide range of fillings and toppings will transport your taste buds to Mexico.",
+    "opening_time": "11:00 AM",
+    "closing_time": "9:30 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/taco_fiesta.jpg"
+  },
+  {
+    "restaurant_name": "Green Garden",
+    "star_rating": 4.2,
+    "restaurant_type": ["Vegetarian", "Healthy Eating", "Cafe"],
+    "description": "Nourish your body and soul at Green Garden. Our fresh and wholesome vegetarian offerings celebrate the beauty of natural ingredients.",
+    "opening_time": "10:30 AM",
+    "closing_time": "8:00 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/green_garden.jpg"
+  },
+  {
+    "restaurant_name": "Fusion Eats",
+    "star_rating": 4.6,
+    "restaurant_type": ["Global Cuisine", "Fine Dining", "Fusion"],
+    "description": "Experience a symphony of flavors from around the world at Fusion Eats. Our innovative fusion dishes redefine culinary boundaries.",
+    "opening_time": "6:00 PM",
+    "closing_time": "11:00 PM",
+    "serving_options": ["Dinner"],
+    "image_placeholder": "https://example.com/images/fusion_eats.jpg"
+  },
+  {
+    "restaurant_name": "Seafood Harbor",
+    "star_rating": 4.8,
+    "restaurant_type": ["Seafood", "Waterfront Dining", "Upscale"],
+    "description": "Indulge in the finest seafood delights at Seafood Harbor. Our ocean-fresh catches and elegant ambiance create an unforgettable dining experience.",
+    "opening_time": "12:30 PM",
+    "closing_time": "10:00 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/seafood_harbor.jpg"
+  },
+  {
+    "restaurant_name": "Vegan Vibes",
+    "star_rating": 4.7,
+    "restaurant_type": ["Vegan", "Plant-Based", "Healthy"],
+    "description": "Experience the future of food with plant-based delights at Vegan Vibes. Our menu is a celebration of cruelty-free and delicious living.",
+    "opening_time": "11:00 AM",
+    "closing_time": "9:00 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/vegan_vibes.jpg"
+  },
+  {
+    "restaurant_name": "Bistro Bliss",
+    "star_rating": 4.4,
+    "restaurant_type": ["European", "Bistro", "Casual Dining"],
+    "description": "Discover the charm of European cuisine at Bistro Bliss. Our cozy bistro offers a curated selection of dishes that capture the essence of the continent.",
+    "opening_time": "12:00 PM",
+    "closing_time": "9:30 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/bistro_bliss.jpg"
+  },
+  {
+    "restaurant_name": "Fire & Smoke BBQ",
+    "star_rating": 4.3,
+    "restaurant_type": ["Barbecue", "Smokehouse", "Casual Dining"],
+    "description": "Embark on a smoky, savory adventure at Fire & Smoke BBQ. Our slow-cooked barbecue delights are a true testament to the art of meat mastery.",
+    "opening_time": "11:30 AM",
+    "closing_time": "9:00 PM",
+    "serving_options": ["Lunch", "Dinner"],
+    "image_placeholder": "https://example.com/images/fire_and_smoke_bbq.jpg"
+  },
+  {
+    "restaurant_name": "Sunrise Bistro",
+    "star_rating": 4.5,
+    "restaurant_type": ["American", "Bistro", "Breakfast"],
+    "description": "Welcome the day with a hearty breakfast at Sunrise Bistro. Our range of breakfast classics and creative twists promise a sunny start.",
+    "opening_time": "6:30 AM",
+    "closing_time": "11:00 AM",
+    "serving_options": ["Breakfast", "Lunch"],
+    "image_placeholder": "https://example.com/images/sunrise_bistro.jpg"
+  },
+  {
+    "restaurant_name": "Rise and Dine",
+    "star_rating": 4.7,
+    "restaurant_type": ["Diner", "Breakfast Spot", "Comfort Food"],
+    "description": "Experience the joy of early mornings at Rise and Dine. Our comforting breakfast dishes are the perfect way to kickstart your day.",
+    "opening_time": "6:00 AM",
+    "closing_time": "12:00 PM",
+    "serving_options": ["Breakfast", "Lunch"],
+    "image_placeholder": "https://example.com/images/rise_and_dine.jpg"
+  }
+]
